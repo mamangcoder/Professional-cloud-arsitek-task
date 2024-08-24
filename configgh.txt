@@ -1,0 +1,9 @@
+IP LOAD BALANCER
+
+submission-dandilesmana
+
+https://cloud.google.com/products
+
+Alasan Pemilihan Machine Type: karena machine type ini memiliki harga yang lebih murah dibanding machine type lainnya dan sesuai kebutuhan saya saat ini.
+Alasan emilih Region: karena kedua region ini merupakan syarat untuk memennuhi kriteria submission.
+Alasan memilih Load Balancer Type: Karena type load balancer ini sesuai engan kebutuhan aplikasi saya saat ini.
